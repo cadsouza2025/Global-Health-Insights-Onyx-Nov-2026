@@ -19,6 +19,14 @@ An interactive two-page healthcare analytics dashboard built in Microsoft Power 
 | Page 1 | Pandemic Impact & Elective Care Performance |
 | Page 2 | Healthcare Workforce: Availability & Pressure |
 
+
+<img width="1678" height="941" alt="image" src="https://github.com/user-attachments/assets/f6ca2c74-7c59-475c-8d29-bb678e2fdfdb" />
+
+---
+
+<img width="1680" height="940" alt="image" src="https://github.com/user-attachments/assets/add6b20a-3fbe-498b-a2ca-44cd91d05fd0" />
+
+
 <!-- Add your dashboard screenshots below -->
 
 <!--
